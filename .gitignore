@@ -4,3 +4,6 @@ env/
 # iPython notebook checkpoints
 .ipynb_checkpoints
 
+# Dataset
+nips-papers.zip
+nips-papers/
