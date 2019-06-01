@@ -1,0 +1,6 @@
+# Environment
+env/
+
+# iPython notebook checkpoints
+.ipynb_checkpoints
+
